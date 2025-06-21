@@ -1,5 +1,5 @@
 [core]
-    remote = origin
+    remote = remote_gdrive
 ['remote "remote_storage"']
     url = ../../dvc_remote
 ['remote "remote_gdrive"']
@@ -7,6 +7,3 @@
     gdrive_client_id = 1081203178442-g400eef9dsh4pqhagilfm8d3cnsm3hk6.apps.googleusercontent.com
     gdrive_client_secret = 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
     gdrive_use_service_account = true
-['remote "origin"']
-    url = s3://dvc
-    endpointurl = https://dagshub.com/klopstock-dviz/Template_MLOps_accidents.s3
