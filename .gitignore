@@ -94,3 +94,4 @@ target/
 
 .client_secret_1081203178442-g400eef9dsh4pqhagilfm8d3cnsm3hk6.apps.googleusercontent.com.json
 .compte-de-service-plenary-hangout-450712-t9-406ab9ef5ba1.json
+./dvc/config
